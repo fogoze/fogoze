@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fogoze
+- 👋 Hi, I’m @olivier
 - 👀 I’m interested in vidéo and programing
 - 🌱 I’m currently learning HTLM, CSS, JavaScript and PHP
 - 💞️ I’m looking to collaborate on ...
